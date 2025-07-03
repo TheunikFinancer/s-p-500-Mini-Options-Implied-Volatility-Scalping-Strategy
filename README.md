@@ -19,7 +19,7 @@ The strategy aims to exploit **mean-reverting behavior** of implied volatility, 
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```bash
 .
